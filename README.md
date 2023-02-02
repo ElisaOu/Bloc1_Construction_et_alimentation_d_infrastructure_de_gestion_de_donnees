@@ -15,9 +15,9 @@ Kayak Marketing Team would like to create an application that will recommend whe
 
 
 This study is a data collection study using API request and scraping.
-It also deals with data storage, ETL and requests.
+It also deals with data storage, ETL and SQL queries.
 
-**The credentials to AWS have been removed**
+Note that **the credentials to AWS have been removed**
 
 ## Available files:
 -	Kayak_FINAL.ipynb: notebook containing the project
