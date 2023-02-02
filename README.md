@@ -20,9 +20,16 @@ It also deals with data storage, ETL and SQL queries.
 Note that **the credentials to AWS have been removed**
 
 ## Available files:
+
+**Main file:**
 -	Kayak_FINAL.ipynb: notebook containing the project
--	Kayak_booking.py : Script scraping the site booking.com
+
+**Scraping:**
 -	cities.txt : list of cities used to scrap booking.com
+-	Kayak_booking.py : Script scraping the site booking.com
+-	hotel_details.json: data scraped from booking.com
+
+**Storage:**
 -	df_load_to_s3.csv : file loaded to AWS
 -	df_load_from_s3.csv : file pulled from AWS
 
